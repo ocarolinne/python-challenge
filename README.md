@@ -3,7 +3,7 @@ Boot Camp Activities
 
 ## PyBank Instructions
 
-![](/Images/revenue-per-lead.png)
+[![](/Images/revenue-per-lead.png)](https://github.com/ocarolinne/python-challenge/blob/main/Starter_Code/Images/revenue-per-lead.png)
 
 In this Challenge, you are tasked with creating a Python script to analyze the financial records of your company. You will be given a financial dataset called budget_data.csv. The dataset is composed of two columns: "Date" and "Profit/Losses".
 
@@ -33,8 +33,7 @@ Greatest Decrease in Profits: Feb-14 ($-1825558)
 
 ## PyPoll Instructions
 
-![](/Images/Vote_counting.png)
-
+[![](https://github.com/ocarolinne/python-challenge/blob/main/Starter_Code/Images/Vote_counting.png)
 In this Challenge, you are tasked with helping a small, rural town modernize its vote-counting process.
 
 You will be given a set of poll data called election_data.csv. The dataset is composed of three columns: "Voter ID", "County", and "Candidate". Your task is to create a Python script that analyzes the votes and calculates each of the following values:
