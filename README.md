@@ -3,7 +3,7 @@ Boot Camp Activities
 
 ## PyBank Instructions
 
-[!](https://github.com/ocarolinne/python-challenge/blob/main/Starter_Code/Images/revenue-per-lead.png)
+[!][(https://github.com/ocarolinne/python-challenge/blob/main/Starter_Code/Images/revenue-per-lead.png)]
 
 In this Challenge, you are tasked with creating a Python script to analyze the financial records of your company. You will be given a financial dataset called budget_data.csv. The dataset is composed of two columns: "Date" and "Profit/Losses".
 
