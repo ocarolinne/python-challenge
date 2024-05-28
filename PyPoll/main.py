@@ -2,10 +2,11 @@
 import os
 import csv
 
-read_dir = 'PyPoll/Resources/'
-filename = 'election_data.csv'
+#read_dir = 'PyPoll/Resources/'
+#filename = 'election_data.csv'
+#csv_path = os.path.join(read_dir, filename)
 
-csv_path = os.path.join(read_dir, filename)
+csv_path = r'PyPoll/Resources/election_data.csv'
 
 # Declare variables and lists  
 

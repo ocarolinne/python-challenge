@@ -2,10 +2,11 @@
 import os
 import csv
 
-read_dir = 'PyBank/Resources/'
-filename = 'budget_data.csv'
+#read_dir = 'PyBank/Resources/'
+#filename = 'budget_data.csv'
+#csv_path = os.path.join(read_dir, filename)
 
-csv_path = os.path.join(read_dir, filename)
+csv_path= r'PyBank/Resources/budget_data.csv'
 
 # Open File
 
