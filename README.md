@@ -1,5 +1,4 @@
-# Python-challenge
-Boot Camp Activities
+# Python
 
 ## PyBank Instructions
 
